@@ -19,11 +19,17 @@ The repository covers core Java concepts, Design Patterns, Data Structures & Alg
 
 ### PL/SQL
 
-* Exercise 1 – Control Structures
+#### Exercise 1 – Control Structures
 
-    * Scenario 1 – Apply a 1% discount to loan interest rates for customers above 60 years.
-    * Scenario 2 – Promote customers to VIP status based on account balance.
-    * Scenario 3 – Generate reminders for customers with loans due within the next 30 days.
+* Scenario 1 – Apply a 1% discount to loan interest rates for customers above 60 years.
+* Scenario 2 – Promote customers to VIP status based on account balance.
+* Scenario 3 – Generate reminders for customers with loans due within the next 30 days.
+
+#### Exercise 3 – Stored Procedures
+
+* Scenario 1 – Process monthly interest for all savings accounts.
+* Scenario 2 – Update employee salaries by applying a department-specific bonus percentage.
+* Scenario 3 – Transfer funds between customer accounts with sufficient balance validation.
 
 > More exercises and projects will be added as I progress through the Digital Nurture 4.0 – Java FSE program.
 
@@ -31,6 +37,7 @@ The repository covers core Java concepts, Design Patterns, Data Structures & Alg
 
 * Java
 * PL/SQL
+* SQL
 * Object-Oriented Programming (OOP)
 * Design Patterns
 * Data Structures & Algorithms (DSA)
