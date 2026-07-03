@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cognizant_Java_FSE.iml" filepath="$PROJECT_DIR$/.idea/Cognizant_Java_FSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E-commercePlatformSearchFunctionExample/E-commercePlatformSearchFunctionExample.iml" filepath="$PROJECT_DIR$/E-commercePlatformSearchFunctionExample/E-commercePlatformSearchFunctionExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinancialForecasting/FinancialForecasting.iml" filepath="$PROJECT_DIR$/FinancialForecasting/FinancialForecasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InventryManagementSystemExample/InventryManagementSystemExample.iml" filepath="$PROJECT_DIR$/InventryManagementSystemExample/InventryManagementSystemExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" filepath="$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" />
     </modules>
   </component>

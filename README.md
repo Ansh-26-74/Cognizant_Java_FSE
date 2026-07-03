@@ -1,13 +1,30 @@
-# Digital Nurture 4.0 - Java FSE
+# Digital Nurture 4.0 – Java FSE
 
-This repository contains Java design pattern exercises completed as part of the Digital Nurture 4.0 Java FSE program.
+This repository contains my solutions to the exercises and assignments completed as part of the **Digital Nurture 4.0 – Java Full Stack Engineer (FSE)** program.
 
-## Exercises
+The repository covers core Java concepts, Design Patterns, Data Structures & Algorithms (DSA), and other programming exercises. Each exercise is organized into its own project with source code and supporting documentation.
 
-### Exercise 1
-- Singleton Design Pattern
+## Repository Structure
 
-### Exercise 2
-- Factory Method Design Pattern
+### Design Patterns
+- Exercise 1 – Singleton Pattern
+- Exercise 2 – Factory Method Pattern
 
-More exercises will be added as the course progresses.
+### Data Structures & Algorithms
+- Exercise 1 – Inventory Management System
+- Exercise 2 – E-commerce Platform Search Function
+- Exercise 7 – Financial Forecasting
+
+> More exercises and projects will be added as I progress through the Digital Nurture 4.0 program.
+
+## Technologies Used
+
+- Java
+- Object-Oriented Programming (OOP)
+- Design Patterns
+- Data Structures & Algorithms
+- Git & GitHub
+
+## Author
+
+**Ansh Mishra**
